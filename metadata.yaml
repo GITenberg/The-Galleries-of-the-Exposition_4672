@@ -1,5 +1,8 @@
 _repo: The-Galleries-of-the-Exposition_4672
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Neuhaus, Eugen
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '1541'
     url: http://www.gutenberg.org/2009/agents/1541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4672#The-Galleries-of-the-Exposition
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
