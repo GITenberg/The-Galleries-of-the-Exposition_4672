@@ -1,5 +1,5 @@
 _repo: The-Galleries-of-the-Exposition_4672
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Art -- Exhibitions'
 - !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
 - !lcc 'N'
+- GITenberg
 title: The Galleries of the Exposition
 url: http://www.gutenberg.org/ebooks/4672
